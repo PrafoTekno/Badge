@@ -3,5 +3,7 @@
 using namespace std;
 
 int a = 1;
+int b = 2;
 
-cout << a+1 << endl;
+cout << "a + b = ";
+cout << a+b << endl;
